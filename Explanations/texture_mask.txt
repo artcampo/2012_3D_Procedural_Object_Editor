@@ -1,0 +1,3 @@
+In the current editor (aug2013) when using mask, the
+current channel is the mask itself, and the lower ones
+the masked layers.

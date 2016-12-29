@@ -1,0 +1,4 @@
+Kind of a hyperbolic.
+a1: frequency of input coords
+a2: frequency of hyperbole (a2 < a1)
+a3: width of lines

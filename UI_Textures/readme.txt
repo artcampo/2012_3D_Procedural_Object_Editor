@@ -1,0 +1,1 @@
+Ensure that perlin returns [-1,1] because it's changed after to [0,1].
